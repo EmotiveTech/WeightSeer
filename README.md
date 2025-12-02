@@ -1,5 +1,5 @@
 # WeightSeer
-WeightSeer is like WeightWatchers but for free
+WeightSeer is a simple weight tracking app.
 
-
-Download the Installer from the Releases tab, run as administrator and Enjoy :)
+To install, Download the APK or download the .exe and install it
+Run the .exe as administrator and then follow the installation prompt
